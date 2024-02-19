@@ -3,7 +3,7 @@
     "builds": [
         {
             "src":"app/api.py",
-            "use":"@vercel/python312"
+            "use":"@vercel/python3"
 
         }
     ],
